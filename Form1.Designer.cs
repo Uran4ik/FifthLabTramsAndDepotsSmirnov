@@ -2,7 +2,7 @@
 {
     partial class Form1
     {
-        /// <summary>
+        /// <summary>asdad
         /// Обязательная переменная конструктора.
         /// </summary>
         private System.ComponentModel.IContainer components = null;

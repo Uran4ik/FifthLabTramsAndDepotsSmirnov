@@ -11,7 +11,7 @@
 namespace WindowsFormsApp3.Properties
 {
 
-
+    //sad
     /// <summary>
     ///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
     /// </summary>

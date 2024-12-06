@@ -4,7 +4,7 @@
 //     Исполняемая версия:4.0.30319.42000
 //
 //     Изменения в этом файле могут привести к неправильной работе и будут потеряны в случае
-//     повторной генерации кода.
+//     повторной генерации кода.asd
 // </auto-generated>
 //------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ namespace WindowsFormsApp3 {
     
     
     /// <summary>
-    ///Represents a strongly typed in-memory cache of data.
+    ///Represents a strongly typed in-memory cachasde of data.
     ///</summary>
     [global::System.Serializable()]
     [global::System.ComponentModel.DesignerCategoryAttribute("code")]
