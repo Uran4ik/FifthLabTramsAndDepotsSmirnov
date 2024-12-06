@@ -1,12 +1,51 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿# Объекты сборки
+bin/
+obj/
 
-namespace WindowsFormsApp3
-{
-    class _
-    {
-    }
-}
+# Папки с пакетами NuGet
+packages/
+
+# Временные файлы
+*.tmp
+*.log
+
+# Файлы настроек среды разработки
+*.user
+*.suo
+*.vs/
+
+Properties/
+Form1.Designer.cs
+Form1.resx
+WindowsFormsApp3.csproj
+ZharFirstDataSet.Designer.cs
+ZharFirstDataSet.xsc
+ZharFirstDataSet.xsd
+ZharFirstDataSet.xss
+ZharFirstDataSet1.Designer.cs
+ZharFirstDataSet1.xsc
+ZharFirstDataSet1.xsd
+ZharFirstDataSet1.xss
+
+# Папка кэша
+*.cache
+
+# Файлы настроек JetBrains Rider
+.idea/
+
+# Временные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Логи
+*.log
+
+# Игнорировать папку с выходным файлом
+*.exe
+*.dll
+
+# Другие временные файлы и кеши
+*.pdb
+*.mdb
+*.sdf
+*.sln.docstates
